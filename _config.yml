@@ -1,1 +1,4 @@
+permalink: /:categories/:year/:month/:day/:title/
 theme: jekyll-theme-modernist
+plugins:
+  - jekyll-readme-index
