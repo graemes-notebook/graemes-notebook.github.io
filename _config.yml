@@ -1,6 +1,11 @@
 title: Graeme's Notebook
+title: Graeme's Notebook
+description: >- # this means to ignore newlines until "baseurl:"
+  Graeme's collection of assorted notes, rpg ideas, diy projects and recipies
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:year/:month/:day/:title/
-theme: jekyll-theme-modernist
+theme: minima
 plugins:
   - jekyll-sitemap
   - jekyll-feed
