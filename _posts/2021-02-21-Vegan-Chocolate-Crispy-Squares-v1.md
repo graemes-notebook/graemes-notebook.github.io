@@ -16,7 +16,7 @@ categories: recipes fudge vegan
 
 * Baking tray/tin (the one I have is about A4-sized, and about a centimetre deep)
 * Baking/greaseproof paper
-* A mixing implement (a wooden spoon))
+* A mixing implement (a wooden spoon)
 * A saucepan
 * A sharp knife
 * A set of scales
