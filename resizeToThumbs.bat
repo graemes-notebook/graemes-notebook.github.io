@@ -1,3 +1,3 @@
-mkdir thumbs
+mkdir assets
 
-magick mogrify -path thumbs -strip -resize 1920x1080 * 
+magick mogrify -path assets -strip -resize 1920x1080 * 
