@@ -15,9 +15,8 @@ The majority of powers in the region are part of, or aligned with the Red Sector
 
 ## Red Sector Security Coalition
 
-{% figure caption:"Red Sector iconography tends to emphasise their civil rather than military aspect" %}
 [![red-sector-small.png](/assets/red-sector-tiny.png)](/assets/red-sector.png)
-{% endfigure %}
+Red Sector iconography tends to emphasise their civil rather than military aspect
 
 Red Sector Security Coalition is largely funded and manned by citizens from the following powers:
 
@@ -25,9 +24,8 @@ Red Sector Security Coalition is largely funded and manned by citizens from the 
 
 As the name implies, the Triple Star Republic occupies three star systems on the galactic west of the cluster. The government is an autocracy, overseen by a semi-mythical "Father" and in practice ruled by a presidium of ideologically approved officials.
 
-{% figure caption:"Triple Star propaganda materials often feature stylised representations of Father" %}
 [![greater-good-small.png](/assets/greater-good-tiny.png)](/assets/greater-good.png)
-{% endfigure %}
+Triple Star propaganda materials often feature stylised representations of Father
 
 #### Reasons to immigrate to the Triple Star Republic
 
@@ -45,9 +43,8 @@ The Divine Stellar Mandate is a theocracy, formed from the descendants of a gene
 
 The initial years of colonisation were hard, and a lot of cultural traditions were lost in the process. The current theology is therefore largely reconstructed from scraps of preserved knowledge, and only loosely resembles the beliefs of the original generation ship.
 
-{% figure caption:"Mandate religious art often has space related themes" %}
 [![divine-stellar-mandate-tiny.png](/assets/divine-stellar-mandate-tiny.png)](/assets/divine-stellar-mandate.png)
-{% endfigure %}
+Mandate religious art often has space related themes
 
 #### Reasons to immigrate to the Triple Star Republic
 
@@ -91,9 +88,8 @@ Exactly what The Machine wants or intends is unclear -- people infected by the b
 
 Any suggestion of a connection between The Machine and [FRIEND](http://throneofsalt.blogspot.com/2019/10/friend.html) is purely hypothetical.
 
-{% figure caption:"An inert still from a cognitohazardous broadcast" %}
 [![feed-the-machine-small.png](/assets/feed-the-machine-small.png)](/assets/feed-the-machine.png)
-{% endfigure %}
+An inert still from a cognitohazardous broadcast
 
 #### Reasons to immigrate to the The Machine
 
