@@ -16,7 +16,8 @@ The majority of powers in the region are part of, or aligned with the Red Sector
 ## Red Sector Security Coalition
 
 [![red-sector-small.png](/assets/red-sector-tiny.png)](/assets/red-sector.png)
-Red Sector iconography tends to emphasise their civil rather than military aspect
+
+_Red Sector iconography tends to emphasise their civil rather than military aspect_
 
 Red Sector Security Coalition is largely funded and manned by citizens from the following powers:
 
@@ -25,7 +26,8 @@ Red Sector Security Coalition is largely funded and manned by citizens from the 
 As the name implies, the Triple Star Republic occupies three star systems on the galactic west of the cluster. The government is an autocracy, overseen by a semi-mythical "Father" and in practice ruled by a presidium of ideologically approved officials.
 
 [![greater-good-small.png](/assets/greater-good-tiny.png)](/assets/greater-good.png)
-Triple Star propaganda materials often feature stylised representations of Father
+
+_Triple Star propaganda materials often feature stylised representations of Father_
 
 #### Reasons to immigrate to the Triple Star Republic
 
@@ -44,7 +46,8 @@ The Divine Stellar Mandate is a theocracy, formed from the descendants of a gene
 The initial years of colonisation were hard, and a lot of cultural traditions were lost in the process. The current theology is therefore largely reconstructed from scraps of preserved knowledge, and only loosely resembles the beliefs of the original generation ship.
 
 [![divine-stellar-mandate-tiny.png](/assets/divine-stellar-mandate-tiny.png)](/assets/divine-stellar-mandate.png)
-Mandate religious art often has space related themes
+
+_Mandate religious art often has space related themes_
 
 #### Reasons to immigrate to the Triple Star Republic
 
@@ -89,7 +92,8 @@ Exactly what The Machine wants or intends is unclear -- people infected by the b
 Any suggestion of a connection between The Machine and [FRIEND](http://throneofsalt.blogspot.com/2019/10/friend.html) is purely hypothetical.
 
 [![feed-the-machine-small.png](/assets/feed-the-machine-small.png)](/assets/feed-the-machine.png)
-An inert still from a cognitohazardous broadcast
+
+_An inert still from a cognitohazardous broadcast_
 
 #### Reasons to immigrate to the The Machine
 
@@ -120,7 +124,7 @@ The trillion Ort Skadak of the hiveworlds dwell in uncounted numbers of space st
 
 * You don't feel like gravity and floors are optional components in a living space.
 * You like having privacy.
-* You disagree with the Ort Skadak stance on private property. 
+* You disagree with the Ort Skadak stance on private property.
 
 ### Free Ort Skadak
 
