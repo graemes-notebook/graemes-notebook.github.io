@@ -26,7 +26,7 @@ As a note on formatting, the headers are generally the post text, with the comme
 ## What is up with President Trump leaving the WHO? What exactly do we get out of being a part of or in the WHO?
 > When we pay into these huge groups, what exactly do we get out of it? I’ve seen numbers from we spend anywhere to 100 to 400 million dollars a year for it. Do we really get 400 million dollars worth of something back out of it? Or is it just a big political scam on the world?
 
-I'm assuming you're an American, so I'll answer from that perspective. As a note, the US contribution to the WHO budget this year is about 115 million USD, (the most recent assessment I can find is here: https://www.who.int/about/finances-accountability/funding/revised-2019-invoice/en/#U) I'm not sure where that 400 million USD figure combined is coming from -- at a guess, that's probably the combination of the various UN specialist agencies.
+I'm assuming you're an American, so I'll answer from that perspective. As a note, the US contribution to the WHO budget this year is about 115 million USD, (the most recent assessment I can find is here: [DEAD LINK, WHO Revised 2019 Invoice] I'm not sure where that 400 million USD figure combined is coming from -- at a guess, that's probably the combination of the various UN specialist agencies.
 
 What the US gains generally by funding international organizations such as these is enormous amounts of soft power, remarkably cheaply. To put it into perspective, a single F-35B has a unit cost of about 115 million USD, and the WHO does far more good for American interests than buying one more fighter jet.
 
