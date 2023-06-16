@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Reposting Reddit 4: The Culture - Part 3 (State of the Art)"
+date:   2023-06-14 23:10:00 +0100
+categories: nonfiction update reddit theCulture
+---
+
+The State of the Art is a short story in an collection of the same name. It attracts a disproprotionate number of questions because it concerns a GCU's visit to Earth in 1977, and people are parochial like that.
+
+Personally, I think it's one of the weaker Culture stories, but it serves as something of a prequel to Use of Weapons, one of the best, by virtue of featuring Diziet Sma and Skaffen-Amtiskaw, even though the events are unrelated.
+
+## In The State of the Art, there's a character who says she's an "Adam Smith man myself". Not being particularly knowledgeable about what Adam Smith's philosophy actually was, were they supposed to be being serious or not?
+
+I assume reasonably serious, albeit on an academic level.
+
+Adam Smith's politics boil down to classic free market economics: assuming the population is made up of rational economic actors, self interest and competition should lead to large scale economic prosperity. [This is a massive over-simplification, but for the sake of brevity...]
+
+A member of Contact who takes the role seriously likely does a lot of research into the cultures they visit, and somebody interested in modern capitalism would likely end up reading Smith's work, since it's a major part of its theoretical basis.
+
+From the point of an intelligent and educated Culturenik, the assumption that people behave largely rationally probably seems a lot more reasonable than it does to a present-day Terran. A Culturenik is part of a much more equal society, with far less scope for their life to be disrupted by health problems, bad governance, or just sheer bad luck. The vast majority of factors that cause suffering under a capitalistic system simply don't occur in Culture society, so most Cultureniks would struggle to fully comprehend them.
+
+From that point of view, free market economics probably doesn't seem too terrible. Especially when they're being discussed from the same sort of perspective that we might decide we prefer 10th Century Scandanavian democracy to 15th Century French feudalism; regardless of if we're right or wrong, we don't live under either.
+
+## In The State of the Art, the GCU Arbitrary needs to set Linter up with a cover story. How well does this hold up if a government agency decides to investigate, and how much trouble is he in?
+
+It very much depends on how thorough the investigator's investigation is, and how thorough the Arbitrary was setting up the fake background (and whether Linter is willing to play along with whatever cover story he's given). You don't necessarily need a lot of documentation to get a job or rent a flat. Especially if you have access to plenty of money.
+
+If a Culturnik does something to attract the attention of the law, odds are it's either going to be drug-use related, sex-related or political-protesting-related. The first two probably aren't going to attract much investigation beyond the basics, but political activists with views that are left-wing, anti-capitalist/fascist/racist, pro-gay/worker/animal-rights historically attract more surveillance and investigation from the police and security services than they really should, so that's probably our most likely investigator.
+
+Assuming the Arbitrary did the absolute minimum necessary to secure Linter his flat and job, when our investigator is as capable as is remotely plausible: the investigator finds out that the references given to Linter's employer and landlord are fake - any addresses listed either don't exist, or the person living at them doesn't know anything about Linter, and any telephone numbers, which might have been answered by the ship while it was still present, probably do the same. Linter almost certainly loses his job and maybe gets evicted. I don't know enough about American tenancy law during the seventies or now to guess - in modern Britain, tenant references aren't usually a thing, and as long as Linter is paying the rent and isn't trashing the place, it would be hard to evict him. The fact that he's being investigated by the police/security services might convince his landlord not to offer renewal of his lease when it expires though.
+
+Whether or not our government agency with a grudge could get him into legal trouble for not having any documented background is best answered by somebody who knows more about America. If he appears to be in his mid-thirties in 1977, and continues to age like a normal terrestrial human, he'd presumably have been born in the forties. 44% of births in 1945 were home-births, and if he claims to have been homeschooled somewhere extremely rural, it's plausible he might never have entered the system as a child. He'd probably have issues with not having registered for conscription - the Vietnam draft ran from 1964 to 1973, so he'd have been of an age where he should have registered for that. And if the Arbitrary left him any money other than what he earned from his job, he might have trouble explaining where he got that. Ditto the fact he wouldn't have the records proving he'd paid tax at any prior point in his life.
+
+If the Arbitrary made a serious effort to give Linter a solid background, it's a completely different story. In the seventies, a most of the recordkeeping would have been paper-based, so it would be more work than now (where the bulk of the job could be done with effectors in moments) but it's still not a big deal for a ship with master forgery skills and the ability to displace the forgeries to where they need to be. Linter's paper trail would be flawless. Active references would be a bit more difficult. If the Arbitrary was willing to leave some hardware near Earth it would be fine - a satellite with effectors and knife missile level intelligence would be enough to fake calls to a few international phone numbers to create the impression of friends and family who are simply out of the country ("I'm sorry, my parents moved to a small farm in a remote Himalayan valley years ago. You can call them though...").
+
+Better yet, if there were a drone willing to stay and keep any eye on Linter, a holographic field projector would let it impersonate as many fake relatives as needed. The Arbitrary could pick somewhere adequately remote so there are no neighbours, build a few family houses complete with fake aging and an apparently self-sufficient farm, populate it with a small community of holographic residents and insert fake paperwork into the land registry that says the community was established 150+ years ago. The investigator would need to start doing something like DNA testing to determine the falsehood, and even that could probably be worked around if necessary.
+
+## The Arbitrary left less than one week before the Iranian Revolution started. Why didn't any of the anthropologists or sociologists on the ship object to being pulled away just as something interesting was about to start?
+
+I'm a bit fuzzy on the dates involved, but my understanding of the Iranian Revolution was that, like most forms of civil unrest, there's a longish period of build-up followed by a sudden upheaval that may or may not lead to lasting change. And it's not always obvious in advance what's going to trigger it or how long the fireworks will last. In this case, wikipedia suggests the spark that set the revolution was the suspicious death of Mostafa Khomeini, which wouldn't have been simple to predict in advance, but it was several months before the protests started, and about a month more before it descended into full blown rioting. Then there was a lull in late summer that might have been the end of the matter, before the situation flared up again, culminating in the overthrow of the Shah.
+
+The Arbitrary may have decided to call time rather than stick around because it while it would obviously be a situation where something was going to happen sooner or later, later could easily have been several months or years later. Even if the Arbitrary had been able to perfectly predict the beginning, duration, and outcome of the Iranian Revolution, it might have decided that it wasn't inclined to wait more than a year watching it unfold. Contact vessels presumably have some kind of schedule or itinerary they try to keep to, if only so that passengers can embark and disembark.
+
+Additionally, if the Arbitrary had stayed long enough for the revolution to start before leaving, it's likely more of the crew would have been tempted to stay behind to watch. Stay-behinds like that would be less willing than Linter to abandon their Culture enhancements and mindset, and without the supervision of the ship, might be tempted to interfere more than is proper.
