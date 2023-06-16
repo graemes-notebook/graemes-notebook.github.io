@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reposting Reddit 4: The Culture - Part 3 (State of the Art)"
+title:  "Reposting Reddit 4: The Culture -- Part III (State of the Art)"
 date:   2023-06-14 23:10:00 +0100
 categories: nonfiction update reddit theCulture
 ---

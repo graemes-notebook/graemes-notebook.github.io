@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reposting Reddit 4: The Culture -- Part 2 (The Involved)"
+title:  "Reposting Reddit 4: The Culture -- Part II (The Involved)"
 date:   2023-06-14 23:00:00 +0100
 categories: nonfiction update reddit theCulture
 ---
