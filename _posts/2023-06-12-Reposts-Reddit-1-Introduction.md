@@ -19,7 +19,7 @@ The process is somewhat complicated by the fact that some of my better standalon
 
 * By the time I've assembled my thoughts into a post, I'm still interested enough to bother posting.
 
-I've only had one comment deleted by a moderator, from /r/OutOfTheLoop, because it didn't start with Answer:, and by the time I realised, somebody else had made the same point, so I didn't bother to do anything to fix it. That post is below.
+I've only had one comment deleted by a moderator, from /r/OutOfTheLoop, at the height of the pandemic, when then-President Trump was making foolish comments about the World Health Organisation, because it didn't start with Answer:, and by the time I realised, somebody else had made the same point, so I didn't bother to do anything to fix it. That post is below.
 
 As a note on formatting, the headers are generally the post text, with the comment immediately below being the post being the post body, included if that was relevant to the answer I wrote. In general, italics are comments from me now, editing the post, to contextualise and include a reply somebody else made that continued the conversation, or because having reread the original I find I have more to write. Title questions, post bodies, etc have all been tweaked for readability, spelling and grammar, and are not necessarily verbatim (although they usually are)
 
