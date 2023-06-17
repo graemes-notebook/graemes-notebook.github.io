@@ -53,3 +53,46 @@ The mandalorian wearing of armour seems to be part of a philosophy of always bei
 Tusken tribes are the group of the three with the strongest obvious taboos around removing their clothing. From a practical perspective, they all have skirted robes, not trousers or bodysuits, and while they don't have many permanent facilities, there's always a rock or sand dune they can go behind. The clear distinction between male and female clothing suggests they have more taboos around what should or should not be on show, and I'd be astonished if there isn't a religious reason behind the fact the female tusken robe has a mask and shroud when the male one has horns and can turn their head. The underlying practical reason for their all-encompassing clothing is the need to protect themselves from Tatooine's desert environment -- humans in the same conditions seem to adopt clothing made from similar materials and with hoods, both in the real world and in-universe. The Tusken species' presence on Tatooine predates its current desert climate, so their physiology is probably less well suited to deserts than that of humans, hence the unusually high level of coverage. The cultural taboos likely developed from there.
 
 In conclusion: I don't think any of the three groups described has their face-covering traditions as a result of sanitiation issues -- in all cases I think there are more likely reasons for it to come about.
+
+# Star Trek
+
+## Why do Borg allow for disconnected drones to keep living? Wouldn’t they implement a self destruct feature in every assimilated creature that triggers when it leaves the collective?
+
+My theory is twofold, firstly implementing a tamper-proof self-destruct-on-disconnection is a lot less straightforward than it seems. A simple "when you can't connect to the collective, self destruct" system would risk lobotomising an entire cube of drones due to the kind of local interference that is commonplace in Star Trek. The less hair-trigger the self-destruction, the more room there is for somebody wanting to capture a drone to prevent it from triggering it long enough to disable it. A general rule of computer security is that if somebody has physical access to the warm (IE running) hardware (drones) they can probably compromise it.
+
+Secondly there probably are some protocols for preventing drones with valuable information from falling into enemy hands in normal situations, but the cicumstances under which Seven of Nine came aboard Voyager were unusual: her home cube was destroyed, and she and her group beamed aboard an allied vessel to continue critical time-sensitive research, while it was skirmishing with transdimensional aliens. Whatever protocol there might have been along the lines of "if you lose connection to the collective, purge sensitive memory banks" would be advisable to suspend, or risk setting back the research effort enormously.
+
+_This comment got nominated for M5 (the r/DaystromInstitute post of the week vote), one reply continued the conversation_
+
+> That’s a pretty solid theory. I especially like the second part - I hadn’t considered the extremely unusual circumstances under which Seven came aboard. Those could indeed be cause to leave otherwise deleted knowledge on the drones on Voyager.
+>
+> As for the first part of your theory, I think it would be an option to instantly wipe critical information on any disconnect while leaving core functionalities of drones intact. With the massive data bandwidth I assume the Borg have, it shouldn’t be a problem to instantly re-upload any wiped information when they reconnect? We’re getting pretty far in speculation territory there, though.
+
+I agree. My head-canon is that under normal circumstances if a borg drone were expecting hostilities (IE the ones beamed onto enemy ships as assimilation parties, or that repel boarding parties) they probably wipe all their sensitive data not immediately relevant to their mission. At the level of individual drones, the data involved should be trivial to re-download once they reconnect if they still need it.
+
+Again, this is mostly speculation, but the "network architecture" of the borg collective strikes me as too big and too dispersed to be anything other than hugely decentralised, so I think most drones probably coordinate (and communicate long-distance) via their cube, with pretty limited range otherwise. Hence why Seven has so much sensitive information when she's disconnected - the cube dumps everything remotely relevant to her research into her and her group, turns off the "purge-on-disconnect" protocol, and beams them to voyager with orders to keep working, then the cube is destroyed. If they were in a position to link to another cube, they could, (and that's the plan, essentially using the disconnected drones as message in a bottle for the collective) but Seven doesn't get that chance before the Doctor takes a scalpel to the implants.
+
+## Why didn't they assign a Betazoid to DS9
+> They were always worried that someone or something could be a changeling, so why didn't they have a Betazoid officer or diplomat on the station? I feel like it would have solved so many problems.
+>
+> Even if they can't read a changelings mind ( I can't remember if they can) they would be able to say hey I suddenly can't read that humans mind he's probably a changeling or something else weird.
+
+> Or at least like a vulcan could go around shanking hands with everyone, just feels like starfleet really missed something here.
+
+If I remember correctly, Luxanna Troi couldn't read Odo's mind, but we don't have any interactions between betazeds and other changelings. Given that experienced changelings seem to be able to turn into things well enough to fool scanners, it doesn't seem out of the realm of possibility that they could imitate a humanoid mind that would be visible telepathically, or that that mind would necessarily reflect their actual thoughts.
+
+The false confidence in accuracy of the blood screenings that the changeling in Paradise Lost exploited shows that they can't rely on Odo's limitations as a shapeshifter applying to the rest of the Founders.
+
+> Imagine, if you will, that a Changeling could imitate a humanoid brain so well that brain has its own thoughts and feelings. It has a mind, and is actually conscious.
+>
+> It might be a very effective covert strategy for the Changeling to let this mind run the body. The memory engrams the changeling has constructed means the 'person' doesn't even know they're a sleeper agent. They'll act perfectly naturally around others. Betazoid counsellors sense nothing is amiss.
+>
+> The Changeling's consciousness, distributed throughout the body it's imitating, hiding in the morphogenic matrix, lies in wait until it decides to exert control.
+>
+> So one moment you're a Starfleet Admiral reading a briefing on ship movements to the front lines. But obtaining that intelligence means The Changeling's mission is complete. You experience a few moments of panic when you're suddenly unable to control your own limbs, then a momentary flicker of horror as they begin to turn to goo, realisation setting in just before your neurons liquify... and you cease to be.
+>
+> At least until tomorrow. When you'll wake up again with no memory of what just occurred.
+>
+> If Odo can produce a functional Bajoran communicator I see no reason why other Changelings couldn't make neurons. It would take some understanding of memory to form memory engrams and impart consciousness, but they have a very strong understanding of humanoid anatomy from their genetic engineering of the Jem'Hadar and Vorta, including the ability to impart instincts and genetic directives like reverence to the Founders. Since Changelings don't appear to write or have much use for computer systems, all this knowledge must be in The Great Link. Intended sleeper agents can be spawned with that full knowledge.
+>
+> In-universe, this is more plausible than you'd think.
