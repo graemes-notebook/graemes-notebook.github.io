@@ -147,7 +147,7 @@ Then it says this:
 >  
 >The Gemara responds: There are cases where demons are the only concern, for example where it is a new ruin into which two upstanding individuals enter, so there is neither concern lest it collapse nor of suspicion.   
 >  
->The Gemara points out, however, that if there are two people, there is also no concern of demons. **As such, the question remains: In what case can demons be the sole cause not to enter a ruin?**   [label](https://www.twitch.tv/theswatknight)
+>The Gemara points out, however, that if there are two people, there is also no concern of demons. **As such, the question remains: In what case can demons be the sole cause not to enter a ruin?**
 >  
 >The Gemara responds: **Generally speaking, two individuals need not be concerned about demons; but, if they are in a place known to be haunted by demons (see Isaiah 13:21), we are concerned about demons even with two people.**
 
