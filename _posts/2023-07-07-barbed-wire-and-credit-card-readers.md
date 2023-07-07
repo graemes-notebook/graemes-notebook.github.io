@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Barbed Wire and Credit Card Readers"
-date:   2023-06-22 22:00:00 +0100
+date:   2023-07-06 23:00:00 +0100
 categories: poetry
 ---
 
