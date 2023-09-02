@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rants: The Gun Question"
-date:   2023-09-03 01:00:00 +0100
+date:   2023-09-03 00:00:00 +0100
 categories: nonfiction rant 3dprinting
 ---
 
