@@ -5,11 +5,9 @@ date:   2024-08-17 20:00:00 +0100
 categories: fiction scifi theCulture RPG epilogue oneshot
 ---
 
-# Project EPILOGUE
-
 ![A human made of silver metal, in a rennaisence-style palace](/assets/epilogue-player.jpg)
 
-Time stands still.
+_Time stands still._
 
 From these palatial rooms overlooking the Piazza of the Martyred Lady, you can see the pyre, and the priests.
 
@@ -23,7 +21,9 @@ The Minds disapprove of inelegance. And their projections put the price of unsub
 
 ## Premise
 
-A few months ago, I started rereading Iain M. Banks "Culture" series, and I was struck how easily Contact/Special Circumstances would be to adapt to a tabletop RPG. The basic form of the Special Circumstances intervention in the series is a human (in the setting, 'human' means an organic person from one of the many vaguely humanoid species with roughly similar bodyplans, rather than an actual earthling) and a Drone (the first book came out in 1987, drones weren't a thing in real life then, but the bodyplan is similar, just instead of being electric motor driven, they use antigravity and 'fields' and are host to a fully independent, human-comparable intelligence) being dropped into a situation by a Mind (strongly-superintelligent AI) who gives them a mission objective that may only loosely intersect with what they're actually there to do. That their real purpose is usually some varation of 'cause a useful kind of chaos' is a perfect fit for the typical RPG group.
+A few months ago, I started rereading Iain M. Banks "Culture" series, and I was struck how easy Contact/Special Circumstances would be to adapt to a tabletop RPG. The basic form of the Special Circumstances intervention in the series is a human (in the setting, 'human' means an organic person from one of the many vaguely humanoid species with roughly similar bodyplans, rather than an actual earthling) and a Drone (the first book came out in 1987, drones weren't a thing in real life then, but the bodyplan is similar, just instead of being electric motor driven, they use antigravity and 'fields' and are host to a fully independent, human-comparable intelligence) being dropped into a situation by a Mind (strongly-superintelligent AI) who gives them a mission objective that may only loosely intersect with what they're actually there to do. That their real purpose is usually some varation of 'cause a useful kind of chaos' is a perfect fit for the typical RPG group.
+
+![Armascott and pigeons.](/assets/epilogue-armascott.jpg)
 
 Unfortunately, my pool of potential players included only one person who has read any of the books, so I had to make some adjustments for easy gameplay. Rather than the Human-drone team, I thought the solution would be to adapt the E-Dust Assassin from one of the books for the players - in the books the dynamic between the human and drone is complicated, and would feel a bit unbalanced. I also had to tone down the abilities a bit - as much as fields and effectors are iconic technology for the series, they also need quite a lot of explanation to make them not feel arbitrary, and for the scenario I had in mind, they wouldn't be particularly useful anyway.
 
