@@ -113,11 +113,11 @@ When the players decided to move in, they decided to float in through the bellto
 
 ![The Nariscene, hanging beneath its encounter suit. It is a large purple orb with tentacles hanging beneath a glowing sphere](/assets/epilogue-nariscene.jpg)
 
-Beneath the Nariscene, largely ignored, the Weasel was sitting in one of the pews, praying. The Nariscene seemed to be working on it's encounter suit. The players watched for a few moments, and noticed remains of Armascott around the room.
+Beneath the Nariscene, largely ignored, the Weasel was sitting in one of the pews, praying. The Nariscene seemed to be working on its encounter suit. The players watched for a few moments, and noticed remains of Armascott around the room.
 
 They decided that they were not interested in negotiation, and shot the Weasel through the head with a CREW. The Nariscene pulled itself into its encounter suit, and a frantic gunfight began. The players won, but it wasn't one side, and they were both sporting quite serious amounts of damage by the end.
 
-And that, more or less, was that. They collected anything they thought was likely to provide useful intel, every intact part of Armascott, and some grisly trophies, and rigged one of the missles to blow up.
+And that, more or less, was that. They collected anything they thought was likely to provide useful intel, every intact part of Armascott, and some grisly trophies, and rigged one of the missiles to blow up.
 
 We cut to the players floating several kilometres away as lightning struck the tower and blew it to bits.
 
