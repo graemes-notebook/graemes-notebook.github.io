@@ -23,7 +23,7 @@ I don't think there's any clear evidence that Diziet Sma is enhanced to the degr
 
 Even without that, the fact she can still gland drugs gives her a significant advantage -- we have a number of examples of glanded chemicals that significantly improve reaction time and deaden pain, even if there are no specific "berserker"-type options.
 
-However, it's not her physical abilities which stop her being an effective combatant, it's her temperment. Diziet is not natural fighter, and she knows it. Every time she's in immediate physical danger, her first reaction is to call on her drone for support. When we see her in her element as an SC operative, she's at a social engagement, employing her charm and social skill to serve the Culture's interests.
+However, it's not her physical abilities which stop her being an effective combatant, it's her temperament. Diziet is not natural fighter, and she knows it. Every time she's in immediate physical danger, her first reaction is to call on her drone for support. When we see her in her element as an SC operative, she's at a social engagement, employing her charm and social skill to serve the Culture's interests.
 
 In short, she's a manipulator, not a soldier, and fighting is what the drone is for.
 
@@ -33,7 +33,7 @@ My best guess for why Skaffen-Amtiskaw handles the situation so violently is tha
 
 We have some precedent to this -- the neatly choreographed obliteration of Vavatch by the Eschatologist in Consider Phlebas was horrifying to some onlookers for much the same reasons. And Falling Outside the Normal Moral Constraints took a great deal of pleasure from showcasing its martial prowess through acts of comprehensive violence.
 
-_In general, the miltary drones and ships of the Culture exist in a balance between their intellectual and cultural aversions to violence, and their knowledge that their fundamental purpose is to be extremely good at it._
+_In general, the military drones and ships of the Culture exist in a balance between their intellectual and cultural aversions to violence, and their knowledge that their fundamental purpose is to be extremely good at it._
 
 ## Eglyle Parinherm, does anybody feel bad for him? And how does the Mistake Not... justify reading his mind and later killing him?
 
@@ -63,7 +63,7 @@ Very.
 
 I assume you've read the sequence involving an E-Dust Assassin in Look to Windward?
 
-Functionally they're comparable to a high-end combat drone or a particularly militaristic ship avatar, in much the same way that an Abominator-class GOU like Falling Outside the Normal Moral Constraints is comparable to a particularly advanced and militaristic GCV. That is to say, theoretically they possess the same kinds of abilities, but where the one is intended to be a general-purpose design mostly for 'friendly' interaction with some combat capabilties if they're needed, the other is a single-purpose weapon designed not only to kill their opponent but to break them so comprehensively that anybody who hears the outcome will immediately understand a simple, extremely important maxim:
+Functionally they're comparable to a high-end combat drone or a particularly militaristic ship avatar, in much the same way that an Abominator-class GOU like Falling Outside the Normal Moral Constraints is comparable to a particularly advanced and militaristic GCV. That is to say, theoretically they possess the same kinds of abilities, but where the one is intended to be a general-purpose design mostly for 'friendly' interaction with some combat capabilities if they're needed, the other is a single-purpose weapon designed not only to kill their opponent but to break them so comprehensively that anybody who hears the outcome will immediately understand a simple, extremely important maxim:
 
 Don't fuck with the Culture
 

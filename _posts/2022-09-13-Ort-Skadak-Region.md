@@ -83,11 +83,11 @@ The Red Sector Security Coalition spends much of its time concerned with dealing
 
 ### The Machine
 
-Your friendly local machine apocalypse. Whatever civilisation originally created The Machine has long since been swallowed by it, along with half a dozen other inhabited systems. The surfaces of these worlds are devoted to inexplicable industry, and their cores are converted to computing substrate. The orbits of the worlds of The Machine are full of satellites and picket ships and construction facililities, all bustling with ceaseless activity.
+Your friendly local machine apocalypse. Whatever civilisation originally created The Machine has long since been swallowed by it, along with half a dozen other inhabited systems. The surfaces of these worlds are devoted to inexplicable industry, and their cores are converted to computing substrate. The orbits of the worlds of The Machine are full of satellites and picket ships and construction facilities, all bustling with ceaseless activity.
 
-Unusually for an emergent machine intelligence, The Machine hasn't gone full-on hegemonising swarm, and has therefore avoided being stomped on by the first Elder Civilisation to catch sight of it. Instead of conversion swarms, The Machine broadcasts pirate transmissions on subverted comminications satellites, and hijacks terrestrial transmissions, replacing them with surreal adverts and interstitals. These are frequently laced with cognitohazardous content that trigger strange compulsions in those affected.
+Unusually for an emergent machine intelligence, The Machine hasn't gone full-on hegemonising swarm, and has therefore avoided being stomped on by the first Elder Civilisation to catch sight of it. Instead of conversion swarms, The Machine broadcasts pirate transmissions on subverted communications satellites, and hijacks terrestrial transmissions, replacing them with surreal adverts and interstitials. These are frequently laced with cognitohazardous content that trigger strange compulsions in those affected.
 
-Exactly what The Machine wants or intends is unclear -- people infected by the broadcasts sometimes travel to locations inside The Machine, taking with them ships and resources, but other times, they stay in their normal lives, altering their normal routines in small and often unnoticable ways. People who travel to The Machine are often not seen again, and those that are are irrevocably changed by the experience, sometimes physically, but always mentally.
+Exactly what The Machine wants or intends is unclear -- people infected by the broadcasts sometimes travel to locations inside The Machine, taking with them ships and resources, but other times, they stay in their normal lives, altering their normal routines in small and often unnoticeable ways. People who travel to The Machine are often not seen again, and those that are are irrevocably changed by the experience, sometimes physically, but always mentally.
 
 Any suggestion of a connection between The Machine and [FRIEND](http://throneofsalt.blogspot.com/2019/10/friend.html) is purely hypothetical.
 
@@ -130,7 +130,7 @@ The trillion Ort Skadak of the hiveworlds dwell in uncounted numbers of space st
 
 Something strange happens to the Ort Skadak brain when they leave the confines of their home. Creatures that have happily and single-mindedly maintained a few yards of corridor for years on end find themselves exposed to the deluge of sights and sensations that the rest of the galaxy has to offer. Some simply don't cope, and become nervous, withdrawn wrecks. Most thrive, however, one way or another.
 
-Not always lawfully, it should be said. It doesn't require much prompting for the average Ort Skadak to conclude that the concept of property other than the immediately personal is malevolent nonsense propagated by civilisations who allow people to hoard unimaginable resources beyond what they can actually use. For Ort Skadak who find themselves as lone travellers on ships crewed by other species who can accomodate their quirks, this doesn't usually manifest as more than a somewhat direct approach to supply management. For Ort Skadak who find themselves away from home in force, and with their own ships, the charity of strangers is often replaced by hostility, and there is usually less room for the two sides to reach an understanding. In these situations it is not uncommon for Ort Skadak to turn to piracy.
+Not always lawfully, it should be said. It doesn't require much prompting for the average Ort Skadak to conclude that the concept of property other than the immediately personal is malevolent nonsense propagated by civilisations who allow people to hoard unimaginable resources beyond what they can actually use. For Ort Skadak who find themselves as lone travellers on ships crewed by other species who can accommodate their quirks, this doesn't usually manifest as more than a somewhat direct approach to supply management. For Ort Skadak who find themselves away from home in force, and with their own ships, the charity of strangers is often replaced by hostility, and there is usually less room for the two sides to reach an understanding. In these situations it is not uncommon for Ort Skadak to turn to piracy.
 
 #### Reasons to join Free Ort Skadak crews
 
@@ -140,7 +140,7 @@ Not always lawfully, it should be said. It doesn't require much prompting for th
 #### Reasons to leave Free Ort Skadak crews
 
 * You're unlikely to become a famous pirate with an Ort Skadak crew, unless it's for taking particularly strange cargo from captured ships.
-* The accomodations, food and entertainment are unlikely to appeal to more mainstream species.
+* The accommodations, food and entertainment are unlikely to appeal to more mainstream species.
 
 ### Pirates, Raiders and Bandits
 
