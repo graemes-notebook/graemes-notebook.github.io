@@ -9,15 +9,15 @@ categories: fiction scifi theCulture RPG epilogue oneshot
 
 _Time stands still._
 
-From these palatial rooms overlooking the Piazza of the Martyred Lady, you can see the pyre, and the priests.
+_From these palatial rooms overlooking the Piazza of the Martyred Lady, you can see the pyre, and the priests._
 
-A witch is to be burned, and you could very easily stop it.
+_A witch is to be burned, and you could very easily stop it._
 
-The double rank square of guards stand in formation around the dias, holding back the crowd. Their halberds and shrouded rifles, and polished halfplate mark them out as formidable veterans of the Faith's wars. They pose you no threat. No weapon produced on this primitive dirtball can harm your liquid metal bodies, and no armour this world has can withstand your inbuilt weaponry.
+_The double rank square of guards stand in formation around the dias, holding back the crowd. Their halberds and shrouded rifles, and polished halfplate mark them out as formidable veterans of the Faith's wars. They pose you no threat. No weapon produced on this primitive dirtball can harm your liquid metal bodies, and no armour this world has can withstand your inbuilt weaponry._
 
-But slaughtering your way through the assembled masses would not be subtle. Would not be elegant.
+_But slaughtering your way through the assembled masses would not be_ subtle. _Would not be_ elegant.
 
-The Minds disapprove of inelegance. And their projections put the price of unsubtle intervention at ten million lives. You will have to come up with a new plan...
+_The Minds disapprove of inelegance. And their projections put the price of unsubtle intervention at ten million lives. You will have to come up with a new plan..._
 
 ## Premise
 
