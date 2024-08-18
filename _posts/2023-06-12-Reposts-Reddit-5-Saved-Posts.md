@@ -17,7 +17,10 @@ That said, here's a selection of my saved posts that I think are too good to los
 >
 > Then longshanks find shinies and magics and glowy weapons and rings. STILL NO FIGHTING FOR IT! Binky says 'Binky wants that!' and longshanks say "O' course Binky, here Binky goes!"
 >
-> Binky gets to fight only when Binky is at advantage! The longshanks make plans and send Binky to scout ahead, they wait and cast spells to help. Binky can hide and let them do what they want... Bi that would've gone to squishier targets. If you take the Roll With It feat and pump your Acrobatics score really high, you're looking at essentially havi
+> Binky gets to fight only when Binky is at advantage! The longshanks make plans and send Binky to scout ahead, they wait and cast spells to help. Binky can hide and let them do what they want... Binky can rush in. They say nothing as Binky lights all the other longshanks on fire because adventurers tell Binky they were BAD longshanks, and praise Binky when Binky lights and bite and ignites!!
+>
+> Binky has free pass everywhere now too! Wherever they go, wherever they get invited, Binky follows along. No guards harassing, no pointy-ears try shooty shoot! shiney clothes BOW TO BINKY and say greetings!
+>
 > Whole thing elaborate scam, has to be. Adventurers pull fur over other longshanks eyes and Binky get to ride along and enjoy all the prizes that go with, only for fighting in return!"
 
 Why would a goblin join an adventuring group? Why WOULDN'T they? Goblin tribes suck for the individual. A party allows for a goblin to do everything they would've wanted to do, only with more freedom and more reward for it!
@@ -26,7 +29,7 @@ How do you get the group to accept you though? Become the adorable mascot or the
 
 > "Sometimes longshanks worry hallway trapped or door have spikes, or that something poisoned. So Binky do what Binky do best, and run in yelling at traps and scaring spikes! Sometimes Binky get hit by things and it hurts Binky, but the, HERE'S THE CRAZY CRAZY PART, Party heals Binky up and THANKS BINKY FOR DISARMING TRAPS!"
 
-If your goblin is truly gobliny and foolhardy, reckless, and desperate enough... and you focus that energy all into endeavors that minimize damage for your other members, they'll love you for it.
+If your goblin is truly gobliny and foolhardy, reckless, and desperate enough... and you focus that energy all into endeavours that minimize damage for your other members, they'll love you for it.
 
 > "Squishy squishy mage was worrying that big scary scary was gonna charge him and stabby stab before he could make magic boom booms. So Binky says, Binky says 'OY YOU [Goblin words, Goblin Words]!" and runs straight at him, jumps on him, wrings his neck, and lights him on fire! Now big scary scary focusing only on Binky and mage make boom booms go BOOM!"
 
@@ -74,9 +77,9 @@ Once removed, a patch can never be replaced on the robe. When enough patches hav
 
 ## [The (real life) sandbox tree seems like it would be a great idea for an RPG](https://www.reddit.com/r/rpg/comments/aqn4of/the_real_life_sandbox_tree_seems_like_it_would_be/)
 
-I’m imagining it in DnD, where it is a strange tree that detonates if a medium or larger creature gets within 10 feet. Adventurers often approach them due to the weapons and armor that can often be found near its trunk. All creatures within 30 feet of a Blast Tree when it expels its seeds must make a DC 10 (or whatever) Dex save or take 1 point of piercing damage as a barb impacts you. Failing a subsequent DC 15 (or whatever) Con save means that the barb burrows into you, and cannot be removed by non-magical means. Constructs automatically succeed this saving throw.
+I’m imagining it in DnD, where it is a strange tree that detonates if a medium or larger creature gets within 10 feet. Adventurers often approach them due to the weapons and armour that can often be found near its trunk. All creatures within 30 feet of a Blast Tree when it expels its seeds must make a DC 10 (or whatever) Dex save or take 1 point of piercing damage as a barb impacts you. Failing a subsequent DC 15 (or whatever) Con save means that the barb burrows into you, and cannot be removed by non-magical means. Constructs automatically succeed this saving throw.
 
-Every time you complete a long rest, make a DC 15 Con save, and tally the results in a similar fashion to death saving throws. For every failure, your AC while not wearing armor increases by 1, and your walking speed is reduced by 10 feet. Those around you may notice that your skin is becoming rougher and more bark-like, and your hair appears more mossy. Every success returns your skin and hair to a more natural tone, and increases your speed by 10 feet, provided that your speed is being reduced by a failure. Accruing three successes before three failures ends the effect and restores your walking speed, although your skin and hair retain their plant-like appearance.
+Every time you complete a long rest, make a DC 15 Con save, and tally the results in a similar fashion to death saving throws. For every failure, your AC while not wearing armour increases by 1, and your walking speed is reduced by 10 feet. Those around you may notice that your skin is becoming rougher and more bark-like, and your hair appears more mossy. Every success returns your skin and hair to a more natural tone, and increases your speed by 10 feet, provided that your speed is being reduced by a failure. Accruing three successes before three failures ends the effect and restores your walking speed, although your skin and hair retain their plant-like appearance.
 
 Upon accruing three failures, you complete your transformation into a Blast Tree. Roots grow from your limbs and a trunk will begin to sprout from your abdomen. Your worn and carried equipment is pushed off of you as your trunk grows. You lose the ability to speak, use language, or move. You are also blinded and deafened, but gain Blindsight out to a range of 10 feet. Casting Greater Restoration on the afflicted target removes all effects and returns the target to its original form at all stages of infection.
 
@@ -221,7 +224,7 @@ It has an airport. People still avoid it.
 
 I stayed in a pirated Easy Hotel that wasn't part of the 'Easy' chain and listened to someone get murdered overnight. Entire room seemed coated in maple syrup.
 
-The whole town is AirBNBs. They are the best and safest option but I once stayed in one where I had to exorcise someones computer of 'bad images'. The safest option is the pub over the road from the Police Station in Dunstable for obvious reasons.
+The whole town is AirBNBs. They are the best and safest option but I once stayed in one where I had to exorcise someone's computer of 'bad images'. The safest option is the pub over the road from the Police Station in Dunstable for obvious reasons.
 
 I once had a book I was reading handed in behind the bar of a Wetherspoons as a 'Suspicious Object'
 
@@ -229,4 +232,224 @@ I stayed with someone who was so racist she wouldn't turn left out of her house.
 
 I have a list. A long long list. I lived many lifetimes when I was there for only 3 years.
 
+## [Why don’t sister of battle utilize terminator armour? ](https://www.reddit.com/r/40kLore/comments/1cc5l46/why_dont_sister_of_battle_utilize_terminator_armor/)
 
+
+The real purpose of terminator armour isn't that it's x% more protective than power armour. The purpose is the following:
+
+1. It is capable of being teleported in.
+
+2. It can carry heavy weapons that would otherwise need to be mounted on at least a light vehicle, and close combat weapons that are so heavy they're basically breaching tools.
+
+The Sisters tactical doctrine doesn't involve teleporting not-really-man-portable weapons squads into close quarters combat in an attempt to kill enemy commanders or vital emplacements right at the start.
+
+They're doing fine with their own model of combat, which is being so berserk on faith and flamer fumes that they can spit on Khorne from where they're standing.
+
+## [The significance of the Gul rank](https://www.reddit.com/r/DaystromInstitute/comments/dtyjoq/the_significance_of_the_gul_rank/)
+
+> It seems that the Gul rank among Cardassians is really ill defined. According to Memory Alpha, it's equivalent of "Captain", but it's also applied to such wildly different levels of responsibility and authority as governors of entire planets, heads of an entire Order (which in Cardassian terms seem to be equivalent to an entire military or intelligence agency) or lowly captain of a freighter. All are called Gul, with no qualifiers whatsoever.
+>
+> It would seem that Cardassians don't distinguish between rank and role as real life military organizations do (you can be the captain of a ship, your role, while having a different rank from captain, for example), making it really hard to pinpoint the exact relevance of such a rank as Gul.
+> 
+>So my question is twofold: what is the benefit of having such an ill-defined militarily rank, especially for a highly ordered society such as the Cardassians, and how do you suppose the chain of command manages to work in spite of this?
+
+
+
+This is one of those things that probably started as an inconsistency in writing, but actually ends up making Cardassian culture a lot more alien and interesting.
+
+There's at least a couple of explanations that are perfectly workable for this, and would likely work fine in real life as well.
+
+The first is simply that "Gul" doesn't actually refer to one rank, but actually to a whole bunch of different ranks that make up a chunk of the Cardassian rank structure. If we take a look at the real world, there are parallels. Whether someone is a one-star Brigadier General in charge of maybe a few thousand men, or a four-star full General, it's common to refer to them simply as "General Smith" rather than "Brigadier General Smith", simply because there's no need to be more precise in an informal context. That could cover someone commanding anything to a few thousand men to millions. The person you're speaking to knows who you mean. One might imagine that the Cardassian military has something similar, with, say Gul 1st class to Gul 6th class filling in the ranks equivalent from Lt. General to Major but everyone just referring to them as "Gul" most of the time. The same would apply to various Sergeant ranks, to Admiral ranks, and to Roman Centurion ranks, where you'd just call someone "Admiral Smith", "Sergeant Smith", or "Centurion Smithus" rather than regurgitating their entire title.
+
+An alternative is that Gul is only a single rank, but that the Cardassians make a great use of positional authority. It might be that the commander of a whole Order or planetary occupation does indeed have exactly the same rank as the commander of a mining freighter, but that their position is far more junior within that rank. This is also not uncommon in the real world. IIRC in the USA, the Chairman of the Joint Chiefs outranks the Vice-Chairman of the Joint Chiefs, who outranks the Chief of Staff of the US Army, who outranks the Vice Chief of Staff of the US Army, who outranks the commander of United States Army Forces Command. There is a very clear order of hierarchy and seniority, and yet all of them are invariably four-star generals. Other examples would be an officer in charge of a unit such as a platoon holding the rank of Captain reporting to a company commander who was also a Captain, or aboard a US Navy supercarrier, where the captain, the executive officer, the commander of the air group, and the deputy commander of the air group all hold the substantive rank of Captain. In the Cardassian fleet, every ship may be commanded by a Gul who reports to a Squadron Commander who is a Gul, who reports to a Wing Commander who is a Gul who reports to an Order Commander who is a Gul or Legate.
+
+We know that the Cardassian Central Command is extremely politicized, to the point where it seems to actually run the government. It may be that the rank structure is an extension of this politicization, and that even if there is theoretically a parity between two Guls, everyone knows who is more powerful and more senior.
+
+>It could also be a reaction to the politicization. Fewer ranks means they don't have political arguments about promotion lists which would be redundant to arguments about assignments and billets. I would guess that this is better for competent but politically disadvantaged officers who would otherwise need to get separate approvals, probably years apart. 
+
+ I very much like this explanation. Having the entire upper-middle echelon of your military command being one rank means the top tier (Legates/Central Command) can pick and choose who gets important or favourable assignments based on loyalty etc rather than being forced to give out appropriate missions based on rank or deal with all the red tape to formally bust an enemy down a rank / promote a sycophant. 
+
+> Another possibility I don’t see mentioned here, but perhaps Gul and Legate are more equivalent to Starfleet’s divisions than ranks. That is, Gul is equivalent to the command division. Legate is equivalent to a flag officer division which Starfleet doesn’t have, but would be analogous to the office of the Admiralty that seems to exist in the Orville.
+>
+> Legate probably comes with a lot of pomp and circumstance - say protocol has Legate officers being announced at formal events whereas Guls are not. There may also be more paperwork and more expectation of attendance at said formal events. Cardassian society may expect that a Legate Officer is almost 100% networking and big picture management.
+>
+>Dukat tried that but then quickly finds that he’s at a disadvantage. His egotism turns off people and his subordinates are trying to step up and take over things he likes to have control over. The other Legates have enough influence to snub him, and it looks bad if he’s the only Legate forced to hang out with the Guls. Finally, it’s so ordinary. He’s a self-made man, he doesn’t like looking like just another stuffy Legate who got there through family connections. He needs to be recognized as different.
+>
+So next chance he gets, he uses his power to throw a wrench into established protocol, which for a Cardassian is an almost orgasmic display of status. He becomes head of Cardassia but remains a Gul. Now nobody knows what that’s supposed to mean and he gets to define it. He gets to pick and choose the control he wants while deferring the obligations. Every time he shows up at an event he gets to watch the master of ceremonies sweat and try to guess what protocol he wants, the anonymity of a Gul or the pomp and circumstance afforded a Legate.
+>
+>He’s swarmed by the other Guls looking for favours, and the Legates are forced to come to him and “stoop” to talking with the Guls, a fact which the other Guls also take sadistic pleasure in after being regularly snubbed themselves. This further inflates Dukat’s personal popularity with the rank and file military, while infuriating the military leadership that he felt had always been unfairly prejudiced against him.
+>
+>And of course, there’s less paperwork as a Gul.
+
+
+## [Fantasy Timekeeping](https://www.reddit.com/r/DnDGreentext/comments/c1g5z6/comment/erds3oz/)
+
+
+I ran a game where the different races' quirks were built around how they kept time.
+
+    Dwarves - baseline seasonal time, recognizable calendar. Divided into three ages related to the status of the world's "Totally Not Moria" dwarven delving. As the economic powerhouse, this is the calendar of trade and collaboration.
+
+    The Primitive Age, BD (Before Delving, used like BCE)
+
+    The First Age, MH (years of the Mountain Hold)
+
+    The Second Age, LD (Long Dark)
+
+    Elves - weird magic time.
+
+    “We’re currently in the first turn, sixth repetition, twelfth cycle, seventh preparation, and eleventh passing.” This has been the case for six dwarf years now.
+
+    Elves always inherently know the date but can't tell you when it will change. When it does change, every elf in the world knows that it did. Sometimes it's a significant event changes the date. Sometimes it just changes without explanation.
+
+    Humans - Adaptable and a story hook
+
+    Happy to use whatever time the surrounding culture uses, so long as it isn't gnomish.
+
+    There's a shattered continent that uses it's own human time system. Two ages: a First Age from the shattering of the continent in the years prior to dwarven civilization, and a second age centered around the crowing of a mysterious cult figure called the Lunar King.
+
+    Hobbits - Calendar? What's that?
+
+    They have names for overly-specific points in time during the day, but no calendar. They use local calendars if necessary, but it can require real arm twisting to force a hobbit to make plans more than 1 day in advance.
+
+    What about agriculture and other calendar uses? "I wake up each day and I think, 'Well now Mister Bilbol, what needs a'doing today?' and then I do that. You know when it's time to plant. You know when the sky looks threatening. Just take it one day at a time, it's all any of us can do!"
+
+    Different communities have different "dialects" of times, too. It is utterly bewildering to outsiders who haven't spent enough time with the locals and functions as a shibboleth in some ways.
+
+    They have a reputation for being both spontaneous and totally unreliable.
+
+    Gnomes - Damn it please no not again.
+
+    Gnomes figure the first day of the first year to be that of the oldest written record they have been able to find and place chronologically. There's a council that sometimes updates this. All gnomes abide by this system religiously.
+
+    Sometimes there are redactions.
+
+    Yes, the gnomes make a point to go through their entire written body of knowledge and meticulously update the dates to maintain the standard. There's a whole profession built around fixing outdated texts.
+
+    Gnome timekeepers suffer the most murders and suicides, statistically, of any other demographic.
+
+## [The Blast Tree](https://www.reddit.com/r/DnDGreentext/comments/c1g5z6/comment/erds3oz/)
+
+I’m imagining it in DnD, where it is a strange tree that detonates if a medium or larger creature gets within 10 feet. Adventurers often approach them due to the weapons and armour that can often be found near its trunk. All creatures within 30 feet of a Blast Tree when it expels its seeds must make a DC 10 (or whatever) Dex save or take 1 point of piercing damage as a barb impacts you. Failing a subsequent DC 15 (or whatever) Con save means that the barb burrows into you, and cannot be removed by non-magical means. Constructs automatically succeed this saving throw.
+
+Every time you complete a long rest, make a DC 15 Con save, and tally the results in a similar fashion to death saving throws. For every failure, your AC while not wearing armour increases by 1, and your walking speed is reduced by 10 feet. Those around you may notice that your skin is becoming rougher and more bark-like, and your hair appears more mossy. Every success returns your skin and hair to a more natural tone, and increases your speed by 10 feet, provided that your speed is being reduced by a failure. Accruing three successes before three failures ends the effect and restores your walking speed, although your skin and hair retain their plant-like appearance.
+
+Upon accruing three failures, you complete your transformation into a Blast Tree. Roots grow from your limbs and a trunk will begin to sprout from your abdomen. Your worn and carried equipment is pushed off of you as your trunk grows. You lose the ability to speak, use language, or move. You are also blinded and deafened, but gain Blindsight out to a range of 10 feet. Casting Greater Restoration on the afflicted target removes all effects and returns the target to its original form at all stages of infection.
+
+After one year, your new body matures and sprouts small barbed seeds. You have no mouth and you must scream. 
+
+## [Gorum](https://www.reddit.com/r/DnD/comments/54zkwp/comment/d86vwaa/)
+
+The last cleric I played: "Mighty Gorum, who art in eternal battle, hallowed be thy name. I beseech thy bloody counsel in a matter of morals-"
+
+Gorum: (butts in) "Cut his fucking head off!"
+
+Cleric: "Gorum has spoken, barkeep. And, like myself, he does not look kindly upon your ale prices. His instructions, as always, are violently clear. The walls of your tavern will be stained by sprays of your blood from my sword. Your entrails will spell avarice across the ground so that all who dare enter this desecrated establishment will know your sin. Our Lord in Iron has spoken!"
+
+## [Ustalav Travel Guide](https://www.reddit.com/r/Pathfinder_RPG/comments/2676ym/comment/chobgya/)
+
+
+
+There's a few things to keep in mind about Ustalav.
+
+1. Everyone you meet is probably dominated by a vampire and cannot be trusted. This includes friendly innkeepers, unfriendly sheriffs, other vampires, your party members and you.
+
+2. If you think, "It'll be fine, I just have to hold out til morning", you're gonna have a bad time. Due to cloud cover and fog, conveniently placed mountain ranges, and evil magic, it's never morning in Ustalav.
+
+3. Ustalav runs off of horror movie tropes. If you're a lady, project an aura of quiet strength and make sure you're able to adapt to any situation. If you're a male, chances are you're dead already, but try to attach yourself to the obvious heroine and hope you make it out alive. For either gender, whatever you do, DON'T SLEEP WITH ANYONE. You sound like you might be plucky comic relief, which is good because those characters live longer so there's a stark contrast from all the terror.
+
+4. If a party member suggests splitting up, don't listen to them. They've been dominated by a vampire and can no longer be trusted.
+
+5. Remember that a wooden stake to the heart kills most things, not just vampires, so it's a useful tool.
+
+6. Don't look into mirrors, that's a vampire's favourite time to be behind people.
+
+7. If someone can conclusively prove they aren't a vampire, they're a werewolf and can no longer be trusted.
+
+8. Like stakes to the heart, fire will kill most things. There is no such thing as too much fire. Can't make an omelet without putting a few vampire-infested villages to the torch. If anyone objects to burning down an entire village to kill one suspected vampire, they've been dominated and can no longer be trusted.
+
+EDIT: Well this got bigger than I expected. I'm glad so many people have enjoyed this. Join me next time for "Varisia: Gypsys have most definitely stolen your children" and "Numeria: What you don't know can and certainly will hurt you"
+
+## [Doctor Who RPG Premise](https://www.reddit.com/r/rpg/comments/77eb61/comment/dolpp69/)
+
+Here, I found it. Sorry about the formatting. It's not meant to be a complete setting, more a shareable premise to use with existing Doctor Who stuff.
+
+### A STITCH in Time
+(Special Tactics & Intelligence - Tardis Command Hub)
+
+### Introduction
+
+_There it is. Sitting darkened in the center of a mass of cables and makeshift computer terminals, the legend come to life. A blue box, unusual only in the amount of material pouring out of her cracked-open door. You know the stories, but seeing it in person is so different. It’s quiet, dark, and surprisingly foreboding. Through the cracked door, you see a blackness bigger than you imagined. You feel something odd as you look: a sensation like a mighty animal has been woken from a hibernation sleep, and is not entirely happy about it._
+
+The Doctor is gone. Dead, we think. We weren’t certain until we found the Tardis: when we found it, deep underground, it was shut down. We feared it was destroyed, our scientists couldn’t breach it for years. Everything changed when the daleks came. The invasion has nearly devastated us, but brought a strange gift that we think will lead to their downfall: we have reverse engineered enough of their technology to finally breach the gates of the Tardis herself, and restart her power core.
+
+You’ve been selected, not because you are the best for this job, but because there are so few of us left. That, and because - this is going to sound strange - but because it will only let a few people interact with it. Most of us can get inside but… well, you’d best see for yourselves. We selected people with think the Tardis will, erm… like.
+
+Stop looking so confused. We don’t have time for this. Really, we don’t. The daleks learned the location of this facility, which is why we’ve cut your training short. You are literally our last, and only hope. Get in the alien time machine, and see if you can turn it on. Find out what happened to the Doctor. If you can, find a way to stop all this from happening.
+
+Get in! Now! They’re at the gates!
+
+_The room shakes as the outer blast doors evaporate. You hear the metallic chorus you’ve come to associate with death and terror. Grabbing your gear bag, you hustle towards the blue box as the inner doors explode open. Your commander and two of your teammates evaporate in blasts of green light as you scramble towards the door. Four more are left outside as the door, suddenly and without warning, slams shut, cutting the power cables in the process._
+
+_You are in darkness. From outside the doors of the alien ship, you can hear the daleks and their blasters, the screams of the remainder of UNIT and Torchwood making their last stand. In the relative quiet inside, you can hear the breathing of your teammates, and someone lets out a quiet sob._
+
+_Then there’s a strange, grating pulse that ebbs and flows in your very bones._
+
+### Premise
+
+This is Doctor Who, without the doctor.
+
+You are a group of people from the near future of Earth, after a dalek invasion that was not stopped by the Doctor. UNIT and Torchwood put up a valiant resistance, but were barely able to slow down the monstrosities. You, along with a handful of other Resistance members, were recruited for a special initiative. Nobody quite knew what it was about, although there’d been rumours that no one really believed.
+
+You are not military. Some of you may have backgrounds in Torchwood and UNIT, but most of the seasoned veterans died in the early invasion. You are not warriors. Fighting Daleks gets you killed. What you are is skilled and resourceful: those are the people that the Resistance selected for this job. People who might have been companions, had the Doctor been around to meet them.
+
+Now you’re on the Tardis. It was asleep, possibly in its death throes, when human and dalek technology forcibly awoke it. It’s damaged and irritable. It seems to have a mind of its own, and none of you know how to steer it. You’re going to have to see if you can fix it up, and if you can’t figure out how to control it yourself, maybe it can be reasoned with. Until then, it’s taking you where it wants to go and you’re just going to have to deal with that.
+
+### Character concepts
+
+Players should choose characters that they can imagine being the Doctor’s companions. Most player characters should be humans, but the setting should allow aliens and time-travelers as well. The Tardis may well lead the party to pick up someone from another timeline it knows will be helpful going forward. Beyond that, the creation of the party is freeform: Perhaps the players want a more paramilitary group. Perhaps they want a ragtag band of misfits. Perhaps they are a collection of the Doctor’s actual previous companions (some of whom may be quite unhappy to see the Tardis abused so). Anything could work, and will create a very different game. Generally, Time Lords should be avoided. The whole point of this game is to create a more classic equal-footing RPG party in Doctor Who. Having one character play the Corsair would ruin that.
+
+### The Tardis
+
+The Tardis is, in a sense, the Game Master in this setting, and will be intolerant of people it sees as villains in the story. It leads the players to places they’re needed, like it’s always done with the Doctor. It has some goals of its own: it wants to be fixed, for one thing, and it will lead the players to things that can help fix it up. Does it want to find the Doctor? Maybe, but maybe that would create a paradox. That’s up to you. Maybe it has some other goals related to what caused the Doctor’s disappearance. The players’ interactions and relationship to the Tardis should be a central part of the game as their characters learn that the Tardis is sentient and has a will of its own.
+
+[Timmy and the Perpetual Motion Machine](https://www.reddit.com/r/AskReddit/comments/7x2sbj/comment/du5k0nf/)
+
+When Little Timmy stopped to say,
+'For heaven's sake, of course!
+I've only gone and found a way,
+Without external force!'
+
+He clapped his hands with growing glee,
+And grinned and jumped for joy -
+'Oh sharp and smartly artful me,
+I'm such a crafty boy!'
+
+He spied it spin and swing and swoop -
+He watched it turn with pride.
+But Timmy caused a feedback loop.
+
+And Timmy fucking died.
+
+[Bathroom Social Norms](https://www.reddit.com/r/AskReddit/comments/5pnwni/comment/dcsjrqx/)
+
+This is one for people using public toilets or restrooms, but who aren't using a cubicle, or come out of the cubicle and find themselves in a situation where they are alone in the restroom foyer (where the sinks are). You need a minimum of one person in the cubicles but the maximum amount is infinite.
+
+Have a quick listen to see if anyone is approaching to come in, or there is any rustling etc to suggest that the occupant/s are about to exit their stall. Silence? Great, the anony-stage is set for you to make someone's day.
+
+You now have free reign to create whatever scenario you want. You're completely anonymous. Fill this space with whatever would make you laugh if you were sat silently laying one out.
+
+Wanna exit a cubicle, whistling, then abruptly stop, make stifled grunts and say "oh gees, I wasn't done......hgghhh.......nowIam ......Oh well, I guess I'm hot dogging this one all the way to walmart for some fresh whites". - do it.
+
+Wanna stick a piece of toilet paper to your shoe, stamp your foot down near the view point of the engaged cubicle, say "not this time poop paper, you're staying here", before acting out a voiceless struggle, crashing into cubicles etc. - Go for it.
+
+Wanna do two sides of a conversation?
+
+"Hey Harry."
+
+"Hey Hugh!"
+
+"What happened to your shoes, Harry?"
+
+"The force of my shit blew them off, Hugh. Don't ask how, but I think one of them is in the U-bend of the stall a few doors over. The other one came out here and I've only found the laces." - Dooo ittttt.
+
+Think about it. You have the chance to comically enter into someone's life. Put a smile on their face and give them something to tell their SO about when they get home. or even, dare I say it, give some terribly shy person a conversation starter for when they get back to the office. Remain anonymous and it's the perfect crime, has no repercussions on your reputation (so long as you don't do it in your work bathroom) and can make someone's day. Try it, but get ready to run. And bear in mind, the floor can be slippy.
