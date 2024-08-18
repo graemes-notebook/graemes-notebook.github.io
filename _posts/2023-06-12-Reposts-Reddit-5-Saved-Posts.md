@@ -287,55 +287,45 @@ So next chance he gets, he uses his power to throw a wrench into established pro
 
 I ran a game where the different races' quirks were built around how they kept time.
 
-    Dwarves - baseline seasonal time, recognizable calendar. Divided into three ages related to the status of the world's "Totally Not Moria" dwarven delving. As the economic powerhouse, this is the calendar of trade and collaboration.
+Dwarves - baseline seasonal time, recognizable calendar. Divided into three ages related to the status of the world's "Totally Not Moria" dwarven delving. As the economic powerhouse, this is the calendar of trade and collaboration.
 
-    The Primitive Age, BD (Before Delving, used like BCE)
+The Primitive Age, BD (Before Delving, used like BCE)
 
-    The First Age, MH (years of the Mountain Hold)
+The First Age, MH (years of the Mountain Hold)
 
-    The Second Age, LD (Long Dark)
+The Second Age, LD (Long Dark)
 
-    Elves - weird magic time.
+Elves - weird magic time.
 
-    “We’re currently in the first turn, sixth repetition, twelfth cycle, seventh preparation, and eleventh passing.” This has been the case for six dwarf years now.
+“We’re currently in the first turn, sixth repetition, twelfth cycle, seventh preparation, and eleventh passing.” This has been the case for six dwarf years now.
 
-    Elves always inherently know the date but can't tell you when it will change. When it does change, every elf in the world knows that it did. Sometimes it's a significant event changes the date. Sometimes it just changes without explanation.
+Elves always inherently know the date but can't tell you when it will change. When it does change, every elf in the world knows that it did. Sometimes it's a significant event changes the date. Sometimes it just changes without explanation.
 
-    Humans - Adaptable and a story hook
+Humans - Adaptable and a story hook
 
-    Happy to use whatever time the surrounding culture uses, so long as it isn't gnomish.
+Happy to use whatever time the surrounding culture uses, so long as it isn't gnomish.
 
-    There's a shattered continent that uses it's own human time system. Two ages: a First Age from the shattering of the continent in the years prior to dwarven civilization, and a second age centered around the crowing of a mysterious cult figure called the Lunar King.
+There's a shattered continent that uses it's own human time system. Two ages: a First Age from the shattering of the continent in the years prior to dwarven civilization, and a second age centered around the crowing of a mysterious cult figure called the Lunar King.
 
-    Hobbits - Calendar? What's that?
+Hobbits - Calendar? What's that?
 
-    They have names for overly-specific points in time during the day, but no calendar. They use local calendars if necessary, but it can require real arm twisting to force a hobbit to make plans more than 1 day in advance.
+They have names for overly-specific points in time during the day, but no calendar. They use local calendars if necessary, but it can require real arm twisting to force a hobbit to make plans more than 1 day in advance.
 
-    What about agriculture and other calendar uses? "I wake up each day and I think, 'Well now Mister Bilbol, what needs a'doing today?' and then I do that. You know when it's time to plant. You know when the sky looks threatening. Just take it one day at a time, it's all any of us can do!"
+What about agriculture and other calendar uses? "I wake up each day and I think, 'Well now Mister Bilbol, what needs a'doing today?' and then I do that. You know when it's time to plant. You know when the sky looks threatening. Just take it one day at a time, it's all any of us can do!"
 
-    Different communities have different "dialects" of times, too. It is utterly bewildering to outsiders who haven't spent enough time with the locals and functions as a shibboleth in some ways.
+Different communities have different "dialects" of times, too. It is utterly bewildering to outsiders who haven't spent enough time with the locals and functions as a shibboleth in some ways.
 
-    They have a reputation for being both spontaneous and totally unreliable.
+They have a reputation for being both spontaneous and totally unreliable.
 
-    Gnomes - Damn it please no not again.
+Gnomes - Damn it please no not again.
 
-    Gnomes figure the first day of the first year to be that of the oldest written record they have been able to find and place chronologically. There's a council that sometimes updates this. All gnomes abide by this system religiously.
+Gnomes figure the first day of the first year to be that of the oldest written record they have been able to find and place chronologically. There's a council that sometimes updates this. All gnomes abide by this system religiously.
 
-    Sometimes there are redactions.
+Sometimes there are redactions.
 
-    Yes, the gnomes make a point to go through their entire written body of knowledge and meticulously update the dates to maintain the standard. There's a whole profession built around fixing outdated texts.
+Yes, the gnomes make a point to go through their entire written body of knowledge and meticulously update the dates to maintain the standard. There's a whole profession built around fixing outdated texts.
 
-    Gnome timekeepers suffer the most murders and suicides, statistically, of any other demographic.
-
-## [The Blast Tree](https://www.reddit.com/r/DnDGreentext/comments/c1g5z6/comment/erds3oz/)
-
-I’m imagining it in DnD, where it is a strange tree that detonates if a medium or larger creature gets within 10 feet. Adventurers often approach them due to the weapons and armour that can often be found near its trunk. All creatures within 30 feet of a Blast Tree when it expels its seeds must make a DC 10 (or whatever) Dex save or take 1 point of piercing damage as a barb impacts you. Failing a subsequent DC 15 (or whatever) Con save means that the barb burrows into you, and cannot be removed by non-magical means. Constructs automatically succeed this saving throw.
-
-Every time you complete a long rest, make a DC 15 Con save, and tally the results in a similar fashion to death saving throws. For every failure, your AC while not wearing armour increases by 1, and your walking speed is reduced by 10 feet. Those around you may notice that your skin is becoming rougher and more bark-like, and your hair appears more mossy. Every success returns your skin and hair to a more natural tone, and increases your speed by 10 feet, provided that your speed is being reduced by a failure. Accruing three successes before three failures ends the effect and restores your walking speed, although your skin and hair retain their plant-like appearance.
-
-Upon accruing three failures, you complete your transformation into a Blast Tree. Roots grow from your limbs and a trunk will begin to sprout from your abdomen. Your worn and carried equipment is pushed off of you as your trunk grows. You lose the ability to speak, use language, or move. You are also blinded and deafened, but gain Blindsight out to a range of 10 feet. Casting Greater Restoration on the afflicted target removes all effects and returns the target to its original form at all stages of infection.
-
-After one year, your new body matures and sprouts small barbed seeds. You have no mouth and you must scream. 
+Gnome timekeepers suffer the most murders and suicides, statistically, of any other demographic.
 
 ## [Gorum](https://www.reddit.com/r/DnD/comments/54zkwp/comment/d86vwaa/)
 
@@ -412,7 +402,7 @@ Players should choose characters that they can imagine being the Doctor’s comp
 
 The Tardis is, in a sense, the Game Master in this setting, and will be intolerant of people it sees as villains in the story. It leads the players to places they’re needed, like it’s always done with the Doctor. It has some goals of its own: it wants to be fixed, for one thing, and it will lead the players to things that can help fix it up. Does it want to find the Doctor? Maybe, but maybe that would create a paradox. That’s up to you. Maybe it has some other goals related to what caused the Doctor’s disappearance. The players’ interactions and relationship to the Tardis should be a central part of the game as their characters learn that the Tardis is sentient and has a will of its own.
 
-[Timmy and the Perpetual Motion Machine](https://www.reddit.com/r/AskReddit/comments/7x2sbj/comment/du5k0nf/)
+## [Timmy and the Perpetual Motion Machine](https://www.reddit.com/r/AskReddit/comments/7x2sbj/comment/du5k0nf/)
 
 When Little Timmy stopped to say,
 'For heaven's sake, of course!
@@ -430,7 +420,7 @@ But Timmy caused a feedback loop.
 
 And Timmy fucking died.
 
-[Bathroom Social Norms](https://www.reddit.com/r/AskReddit/comments/5pnwni/comment/dcsjrqx/)
+## [Bathroom Social Norms](https://www.reddit.com/r/AskReddit/comments/5pnwni/comment/dcsjrqx/)
 
 This is one for people using public toilets or restrooms, but who aren't using a cubicle, or come out of the cubicle and find themselves in a situation where they are alone in the restroom foyer (where the sinks are). You need a minimum of one person in the cubicles but the maximum amount is infinite.
 
